@@ -1,1 +1,1 @@
-# COVID-19--Analysis---Prediction
+# COVID-19-Analysis-and-Prediction

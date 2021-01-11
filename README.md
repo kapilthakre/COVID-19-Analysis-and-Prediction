@@ -1,4 +1,7 @@
 # COVID-19 Analysis and Prediction
+![Python](https://img.shields.io/badge/Python-3.7-blue)
+![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
+![Graphs](https://img.shields.io/badge/InterectiveGraphs-Plotly-red)
 
 ## Overview
 
